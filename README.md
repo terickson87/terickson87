@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a former Propulsion Engineer at Boeing and current MS Computer Science Student at USC with an expected graduation of December 2020. I have always been interested in compuster science, and made a decision to make a carrer change. I am excited to apply my 8 years of engineering experience with Boeing, my desire to create customer centric software solutions, and my passion computer science in an exciting new career in software development.
+I am a former Propulsion Engineer at Boeing and current MS Computer Science Student at USC with an expected graduation of December 2020. I have always been interested in compuster science, and made a decision to make a carrer change. I am excited to apply my 8 years of engineering experience with Boeing, my desire to create customer centric software solutions, and my passion for computer science in an exciting new career in software development.
 
 <p align='center'>
   <a href="https://terickson87.github.io/"><img height="30" src="https://github.com/terickson87/terickson87/blob/master/GitHub-Mark-120px-plus.png?raw=true"></a>
