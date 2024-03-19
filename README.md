@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am currently a Software Development Engineer at Amazon, formerly a Propulsion Engineer at Boeing. I started my career at Boeing following my passion for the physical sciences. However, I have always been interested in computer science, and after 8 years at Boeing, I decided to make a career change. I decided to return to school to get a Master's in computer science, after which I started my computer science career at Amazon's MCF. I am currently enjoying the opportunity this work provides me to help businesses, both big and small, succeed - at the scale of Amazon.
+Todd is a professional Software Development Engineer. Most recently he has worked at Amazon on the Multi-Channel Fulfillment service that enables businesses of all sizes to leverage Amazon's fulfillment network. He has master’s degrees in both Computer Science and Aerospace Engineering from the University of Southern California and a background in aerospace engineering at Boeing.
+
+With 3 years of experience at Amazon, Todd has designed, developed, and maintained software using Java, Kotlin, TypeScript, Python, AWS cloud services, and the AWS CDK. He has created a React website for the supplychain.amazon.com order management dashboard, and a fulfillment client for eCommerce platforms, including Shopify. He is excited to use his passion for applying the full stack of software development to innovate and build software solutions that customers will love.
 
 <p align='center'>
   <a href="https://terickson87.github.io/"><img height="30" src="https://github.com/terickson87/terickson87/blob/master/GitHub-Mark-120px-plus.png?raw=true"></a>
